@@ -1,5 +1,5 @@
 {
-    "name": "punic/punic",
+    "name": "jaromirdalecky/punic",
     "description": "PHP-Unicode CLDR",
     "keywords": [
         "localization",

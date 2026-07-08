@@ -30,7 +30,7 @@ class Options
      *
      * @var string
      */
-    const DEFAULT_LOCALES = 'ar,ca,cs,da,de,el,en,en_AU,en_CA,en_GB,en_HK,en_IN,es,fi,fr,he,hi,hr,hu,it,ja,ko,nb,nl,nn,pl,pt,pt_PT,ro,root,ru,sk,sl,sr,sv,th,tr,uk,vi,zh,zh_Hant';
+    const DEFAULT_LOCALES = 'ar,ca,cs,da,de,el,en,en_AU,en_CA,en_GB,en_HK,en_IN,es,fi,fr,he,hi,hr,hu,it,ja,ko,nb,nl,nn,pl,pt,pt_PT,ro,root,ru,sk,sl,sr,sv,th,tr,uk,vi,zh,zh_Hant,af,am,bn,bo,bs,dz,en_NZ,es_419,es_MX,fa_AF,fa,fil,fr_CA,gu,haw,hy,id,km,lo,mi,mk,ml,mn,ms,mt,my,ne,om,pa,ps,si,so,sw,ta,te,ti,to,ur';
 
     /**
      * Placeholder for all locales.
